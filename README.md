@@ -1,2 +1,9 @@
 # building-dataset-collection
-A collection of free and paid building-related datasets on the intrawebs.
+A collection of building-related datasets on the intrawebs.
+
+- [Building Information]()
+- [Building Energy Data]()
+- [Building Occupancy Data]()
+- [Building Images]()
+- [Building Fault Detection]()
+- [Weather Data]()
